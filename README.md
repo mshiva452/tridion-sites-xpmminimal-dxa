@@ -12,7 +12,7 @@ A lightweight JS package for website that adds edit links to your components or 
 
 - Lightweight and non-intrusive
 
-## Deployment
+## 🚀 Deployment
 
 - Download the xpm-minimal-dxa.zip ZIP file(xpm-minimal-dxa.zip) from the [releases page](https://github.com/RWS-Open/tridion-sites-xpmminimal-dxa/releases).
 
